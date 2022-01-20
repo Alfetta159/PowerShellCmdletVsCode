@@ -1,4 +1,4 @@
-# Creating PowerShell CmdLets in VSCode
+# Creating PowerShell Cmdlets in VSCode
 
 Refer to: [Creating PowerShell CmdLets in VSCode](https://dev.to/alfetta159/creating-powershell-cmdlets-in-vscode-3gap)
 
